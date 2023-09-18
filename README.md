@@ -1,1 +1,1 @@
-# JupyterLite Instance for 70 Mathematical Concepts
+# JupyterLite Instance for Machine learning meetup 
